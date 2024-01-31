@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+removexif.egg-info/PKG-INFO
+removexif.egg-info/SOURCES.txt
+removexif.egg-info/dependency_links.txt
+removexif.egg-info/requires.txt
+removexif.egg-info/top_level.txt
+tests/__init__.py
+tests/test_removexif.py
